@@ -43,8 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Book.cs" />
+    <Compile Include="BookList.cs" />
+    <Compile Include="ConstraintExamples\DiscountCalculator.cs" />
+    <Compile Include="GenericList.cs" />
+    <Compile Include="List.cs" />
+    <Compile Include="ConstraintExamples\Nullable.cs" />
+    <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
