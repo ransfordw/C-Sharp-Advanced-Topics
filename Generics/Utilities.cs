@@ -2,15 +2,13 @@
 
 namespace Generics
 {
-    
-
     // Possible constraints
     // where T : IComparable
     // where T : Product
     // where T : struct
     // where T : class
     // where T : new()
-    public class Utilities<T> where T : IComparable, new() // default contructor
+    public class Utilities<T> where T : IComparable, new()
     {
         public int Max(int a, int b)
         {
