@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{D7321C1C-256C-4E50-964D-CA7851BC2D1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaExpressions", "LamdaExpressions\LamdaExpressions.csproj", "{2EDFE38F-4020-4B9B-8269-36B76A96FEBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D7321C1C-256C-4E50-964D-CA7851BC2D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7321C1C-256C-4E50-964D-CA7851BC2D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7321C1C-256C-4E50-964D-CA7851BC2D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDFE38F-4020-4B9B-8269-36B76A96FEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDFE38F-4020-4B9B-8269-36B76A96FEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDFE38F-4020-4B9B-8269-36B76A96FEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDFE38F-4020-4B9B-8269-36B76A96FEBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
